@@ -2,3 +2,57 @@
 h1 {
     color: $red-color;
 }
+
+body {
+
+    font-family: Arial, sans-serif;
+
+    line-height: 1.6;
+
+    background-color: #f4f4f4;
+
+    padding: 20px;
+
+}
+
+.container {
+
+    width: 80%;
+
+    margin: 0 auto;
+
+    background: #fff;
+
+    padding: 20px;
+
+}
+
+.blog-post {
+
+    margin-bottom: 40px;
+
+    padding-bottom: 20px;
+
+    border-bottom: 1px solid #eaeaea;
+
+}
+
+.blog-post h2 {
+
+    color: #333;
+
+}
+
+.blog-post p {
+
+    color: #666;
+
+}
+
+.blog-post img {
+
+    max-width: 100%;
+
+    height: auto;
+
+}
