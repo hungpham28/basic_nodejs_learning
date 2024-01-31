@@ -4,7 +4,7 @@ function route(app) {
   app.get('/', (req, res) => {
     res.render('home')
   })
-            app.post('/search', (req, res) => {
+  app.post('/search', (req, res) => {
     res.render('home')
   })
   app.get('/search', (req, res) => {
